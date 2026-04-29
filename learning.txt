@@ -1,0 +1,2 @@
+So far in this course, I have learned the importance of version control. Understanding the difference between a fork and a branch has helped me see how developers collaborate without breaking each other's code.
+
