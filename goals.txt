@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+My Personal and Academic Goals for Next Year
+
+1. Excel in my studies at Addis Ababa University.
+2. Scale my startup, ScaleX, to new heights.
+=======
 My acadmic Goal For Next year 
 1.To become Full-Stack Devloper
 2. To become AI engieer
+>>>>>>> 6f83bdbc99c40f00b80d6dd9a3f7253d924b3930
